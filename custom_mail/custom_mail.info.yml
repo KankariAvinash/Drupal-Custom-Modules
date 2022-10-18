@@ -1,0 +1,5 @@
+name: Custom mail
+type: module
+description: This module sends email to the user whenever username is changed.
+core_version_requirement: ^8.8 || ^9
+package: Custom
