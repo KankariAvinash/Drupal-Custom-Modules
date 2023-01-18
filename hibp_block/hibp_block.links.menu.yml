@@ -1,0 +1,6 @@
+hibp_block.admin:
+  title: 'HIBP Access Data'
+  description: 'HIBP API request data'
+  parent: system.admin_config_workflow
+  route_name: hibp_block.add_data
+  weight: 100

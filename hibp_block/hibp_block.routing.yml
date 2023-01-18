@@ -1,0 +1,7 @@
+hibp_block.add_data:
+  path: 'admin/hibp'
+  defaults:
+    _controller: '\Drupal\hibp_block\Controller\Hibp_controller::showdata'
+    _title: 'HIBP Access Data'
+  requirements:
+    _permission: 'pemission_test'

@@ -1,0 +1,5 @@
+name: HIBP Block
+type: module
+description: HIBP Custom Block Plugin
+core_version_requirement: ^8.8 || ^9
+package: custom

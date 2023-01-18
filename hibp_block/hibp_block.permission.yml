@@ -1,0 +1,4 @@
+pemission_test:
+title: 'test permission'
+description: 'It is use for access module.'
+restrict access: TRUE
