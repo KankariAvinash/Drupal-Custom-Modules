@@ -1,0 +1,6 @@
+hahn_redirect.hello_ajax_response:
+  path: '/hello-ajax-response'
+  defaults:
+    _controller: '\Drupal\hahn_redirect\Controller\hahn_block_controller::content'
+  requirements:
+    _permission: 'access content'

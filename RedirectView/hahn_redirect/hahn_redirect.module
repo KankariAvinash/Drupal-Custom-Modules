@@ -1,0 +1,7 @@
+<?php
+
+function hahn_redirect_page_attachments(array &$page)
+{
+  $page['#attached']['library'][] = 'hahn_redirect/hahn_redirect';
+}
+

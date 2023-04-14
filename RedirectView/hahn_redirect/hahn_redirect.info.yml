@@ -1,0 +1,5 @@
+type: module
+name: Hahn Redirect test
+description: 'Hahn Redirect test: to display node overview without reloading the page'
+package: Hahn Rechtsanwaelte Custom
+core_version_requirement: ^8.8 || ^9

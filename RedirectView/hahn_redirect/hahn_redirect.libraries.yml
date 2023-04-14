@@ -1,0 +1,14 @@
+hahn_redirect:
+  version: VERSION
+  header: true
+  css:
+    theme:
+      css/hahn_redirect.css: {}
+  js:
+    js/hahn_redirect.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
+    - core/jquery.once
+    - core/drupalSettings
+    - core/jquery.ui.tabs
