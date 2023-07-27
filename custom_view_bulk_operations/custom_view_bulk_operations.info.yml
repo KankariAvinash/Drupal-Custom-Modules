@@ -1,0 +1,7 @@
+name: Custom View Bulk Operations
+type: module
+description: (Custom module) View Bulk Operations
+core_version_requirement: ^8 || ^9
+package: Custom
+dependencies:
+  - views_bulk_operations
