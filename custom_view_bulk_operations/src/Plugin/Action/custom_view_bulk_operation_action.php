@@ -50,7 +50,7 @@ class custom_view_bulk_operation_action extends ViewsBulkOperationsActionBase
                     'title' => $this->t("Entity Reference Field"),
                 ));
                 $create_node->save();
-                $node->field_content[] = $create_node;
+                $node->field_content = $create_node;
                 $node->save();
             }
         }
